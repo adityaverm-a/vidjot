@@ -2,7 +2,7 @@
 
 > Jot down you content ideas here!
 
-This app uses Node.js/Express/MongoDB with user authentication, implemented MVC application design pattern.
+This app uses Node.js/Express/MongoDB with user authentication, implemented MVC application design model.
 
 ## Usage
 
